@@ -246,6 +246,13 @@ padding: 70px 20px;
     color:darkgrey;
        
 }
-.mails h4 span{
-    text-shadow: #1f242d;
+
+.mails i{
+    padding: 20px;
+    font-size: 26.2px;
+}
+.mails a{
+    font-size: 20px;
+    text-decoration: underline;
+    color: #1f242d;
 }
